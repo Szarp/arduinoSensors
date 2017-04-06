@@ -1,8 +1,4 @@
-/*
-  Library for the Maxim MAX30100 pulse oximetry system
-  Connor Huffine/Kontakt
-  February 2016
-*/
+
 #define led 9
 // Registers
 #define MAX30100_INT_STATUS     0x00  // Which interrupts are tripped

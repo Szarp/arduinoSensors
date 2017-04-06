@@ -1,12 +1,8 @@
-/*
-  Library for the Maxim MAX30100 pulse oximetry system
-  Connor Huffine/Kontakt
-  February 2016
-*/
+
 
 #include "Arduino.h"
 #include <Wire.h>
-#include "MAX30100.h"
+#include "heartRateLib.h"
 
 MAX30100::MAX30100(){
 
